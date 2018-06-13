@@ -10,3 +10,6 @@ The only thing to do is to select between Google or Apple store and then fill th
 It helps to find required fields by having a "help to find this field" feature.
 It helps by showing a full view for the current payment
 
+## Scenario
+For more details:
+https://drive.google.com/file/d/1k82UPB03WITxMcaljtteMUg9VeJIKi8C/view?usp=sharing
